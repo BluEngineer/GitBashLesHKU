@@ -11,3 +11,6 @@ test repository to try out Bash command line
 ────────(♥)████(♥) __ ɪ'ʟʟ ɓє ƴσυʀ ѕɱɪʟє.
 ─────────(♥)██(♥) ɓυт αηƴтɪɱє ƴσυ ηєє∂ α ƒʀɪєη∂,
 ───────────(♥) __ ɪ'ʟʟ ʝυѕт ɓє ɱє.
+
+
+blabalblabla deze branch wil ik gaan mergen met main! haha
